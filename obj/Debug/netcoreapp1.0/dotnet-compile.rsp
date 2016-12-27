@@ -1,5 +1,5 @@
---temp-output:C:\Users\Deb\workspace\exercises\csharp\VSC\Tree\obj\Debug\netcoreapp1.0\
---out:C:\Users\Deb\workspace\exercises\csharp\VSC\Tree\bin\Debug\netcoreapp1.0\Tree.dll
+--temp-output:C:\Users\Deb\workspace\exercises\csharp\VSC\csharpTree\obj\Debug\netcoreapp1.0\
+--out:C:\Users\Deb\workspace\exercises\csharp\VSC\csharpTree\bin\Debug\netcoreapp1.0\csharpTree.dll
 --define:DEBUG
 --define:TRACE
 --define:NETCOREAPP1_0
@@ -9,7 +9,7 @@
 --optimize:False
 --debug-type:portable
 --emit-entry-point:True
---output-name:Tree
+--output-name:csharpTree
 --file-version:1.0.0.0
 --version:1.0.0.0
 --informational-version:1.0.0
@@ -87,4 +87,4 @@
 --reference:C:\Users\Deb\.nuget\packages\System.Threading.Timer\4.0.1\ref\netstandard1.2\System.Threading.Timer.dll
 --reference:C:\Users\Deb\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll
 --reference:C:\Users\Deb\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll
-C:\Users\Deb\workspace\exercises\csharp\VSC\Tree\Program.cs
+C:\Users\Deb\workspace\exercises\csharp\VSC\csharpTree\Program.cs
